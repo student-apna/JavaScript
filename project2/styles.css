@@ -1,0 +1,40 @@
+.container{
+   display: flex;
+   margin-bottom: 200px;
+   margin-left: 200px;
+   align-items: center;
+   justify-content: center;
+   position:static;
+}
+h1{
+   
+   margin-left: 345px;
+   color: yellow;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+   
+}
+body{
+  background-color: blueviolet; 
+}
+
+.parent{
+
+   align-items: center;
+   margin-top:300px;
+
+}
+.p1{
+   color: wheat;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+}
+button{
+   background-color:red;
+   color: yellow;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   border-radius: 15px;
+   height: 30px;
+   margin-left: 200px;
+
+}
